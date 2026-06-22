@@ -83,10 +83,8 @@ The U-Net and U-Net++ ranges overlap → the architecture difference is within r
 ```
 .
 ├── brain_tumor_kaggle.ipynb     # main Kaggle notebook (training + evaluation + figures)
-├── brain_tumor_kaggle.py        # script export of the same code
 ├── report.pdf                   # full project report
 ├── figures/                     # result figures used above
-└── results/multiseed_results.csv
 ```
 
 ---
